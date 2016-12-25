@@ -1,2 +1,2 @@
 # MediaPlayer
-Media Player App - - I used JavaFX.
+Media Player App - I used JavaFX.
